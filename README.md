@@ -7,4 +7,4 @@ In the dataset we can find the population of each country and which is categoriz
 I have used the Platform Microsoft PowerBi to visulaize the distribution of a categorical or continuous variable such as Total Population by Country.
 As this is a large dataset I have used the Top N filter method to find the top 10 countries with their population.
 
-Upon analysis we have found that on 2018 China is in the first place and India is on the Second place.
+Upon analysis we have found that on 2018 China is in the first place and India is on the Second place on Population.
