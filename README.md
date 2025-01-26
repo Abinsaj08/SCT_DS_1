@@ -1,5 +1,6 @@
 # SCT_DS_1
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.
+
 Here we used the dataset named "population_by_age_group.xlsx"
 The datset is of the year 2018.
 In the dataset we can find the population of each country and which is categorized by different age groups.
